@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btnAddWork" type="id" />
+    <item name="btnGetWorksList" type="id" />
+    <item name="lisview" type="id" />
+</resources>
